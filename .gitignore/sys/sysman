@@ -1,0 +1,14 @@
+.\" Manpage for SYS.
+.TH man 8 "26 Dec 2018" "1.0" "SYS man page"
+.SH NAME
+SYS - A simple funny program
+.SH SYNOPSIS
+./login
+.SH DESCRIPTION
+SYS is a funny program that I created and is nothing useful. Start it by typing ./login
+.SH OPTIONS
+There are no options.
+.SH BUGS
+No known bugs.
+.SH AUTHOR
+Ivan Zavyalov also known as CreeperDude372
